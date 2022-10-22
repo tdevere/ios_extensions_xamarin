@@ -5,11 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>com.microsoft.appcentercss.DayCountExtension</string>
+	<string>com.microsoft.appcentercss.containerApp.DayCountExtension</string>
 	<key>CFBundleExecutable</key>
 	<string>DayCountExtension</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.microsoft.appcentercss.DayCountExtension</string>
+	<string>com.microsoft.appcentercss.containerApp.DayCountExtension</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
