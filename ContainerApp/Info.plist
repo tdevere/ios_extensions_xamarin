@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>ContainerApp</string>
+	<string>com.microsoft.appcentercss.containerApp</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.microsoft.appcentercss.containerApp</string>
 	<key>CFBundleShortVersionString</key>

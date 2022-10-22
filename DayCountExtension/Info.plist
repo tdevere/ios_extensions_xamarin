@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>com.xamarin.DayCountExtension</string>
+	<string>com.microsoft.appcentercss.DayCountExtension</string>
 	<key>CFBundleExecutable</key>
 	<string>DayCountExtension</string>
 	<key>CFBundleIdentifier</key>
